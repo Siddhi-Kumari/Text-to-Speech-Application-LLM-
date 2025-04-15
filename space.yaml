@@ -1,0 +1,3 @@
+sdk: streamlit
+app_file: frontend/app.py
+python_version: 3.8

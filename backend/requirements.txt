@@ -1,0 +1,11 @@
+flask
+flask-cors
+requests
+beautifulsoup4
+newspaper3k
+nltk
+transformers
+torch
+gtts
+deep-translator
+python-dotenv
